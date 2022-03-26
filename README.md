@@ -1,2 +1,2 @@
 # Time-Series-Analysis
-Time Series Analysis using SARIMAX and LSTM
+Time Series Analysis using SARIMAX and LSTM.
